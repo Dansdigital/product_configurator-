@@ -1,0 +1,8 @@
+(5) [{…}, {…}, {…}, {…}, {…}]
+0: {cullFace: 'DISABLE', id: '12c3f21e-cb67-4137-bf95-4166ef9fd448', name: 'accents', reflection: 0.1, shadeless: false, …}
+1: {cullFace: 'DISABLE', id: '36b89391-60a0-4b49-b6ba-77eb98a22772', name: 'frame', reflection: 0.1, shadeless: false, …}
+2: {cullFace: 'DISABLE', id: '3cfe7698-dda1-4e58-b1a1-cf2494b53a25', name: 'basic black', reflection: 0.1, shadeless: false, …}
+3: {cullFace: 'DISABLE', id: '74cbff43-61eb-4cac-94e1-231d12769804', name: 'hardware', reflection: 0.1, shadeless: false, …}
+4: {cullFace: 'DISABLE', id: '96d149dd-015c-4d11-8c78-ccd6d5521739', name: 'pad', reflection: 0.1, shadeless: false, …}
+length: 5
+[[Prototype]]: Array(0)

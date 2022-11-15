@@ -1,0 +1,75 @@
+0: {name: '9b57ed9a868745f499d8cda61ce6afd4.fbx', instanceID: 0, nodeMask: -1, materialID: null, children: Array(1), …}
+2: {name: 'RootNode', instanceID: 2, nodeMask: -1, materialID: null, children: Array(4), …}
+3: {name: 'basic bench', instanceID: 3, nodeMask: -1, materialID: null, children: Array(1), …}
+4: {name: 'basic bench', instanceID: 4, nodeMask: -1, materialID: null, children: Array(33), …}
+5: {name: 'basic bench_hardware_0', instanceID: 5, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+17: {name: 'basic bench_hardware_0', instanceID: 17, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+26: {name: 'basic bench_hardware_0', instanceID: 26, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+35: {name: 'basic bench_hardware_0', instanceID: 35, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+44: {name: 'basic bench_hardware_0', instanceID: 44, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+53: {name: 'basic bench_hardware_0', instanceID: 53, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+62: {name: 'basic bench_hardware_0', instanceID: 62, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+71: {name: 'basic bench_hardware_0', instanceID: 71, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+80: {name: 'basic bench_hardware_0', instanceID: 80, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+89: {name: 'basic bench_hardware_0', instanceID: 89, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+98: {name: 'basic bench_hardware_0', instanceID: 98, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+107: {name: 'basic bench_hardware_0', instanceID: 107, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+116: {name: 'basic bench_hardware_0', instanceID: 116, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+125: {name: 'basic bench_hardware_0', instanceID: 125, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+134: {name: 'basic bench_hardware_0', instanceID: 134, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+143: {name: 'basic bench_hardware_0', instanceID: 143, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+152: {name: 'basic bench_hardware_0', instanceID: 152, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+161: {name: 'basic bench_hardware_0', instanceID: 161, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+170: {name: 'basic bench_hardware_0', instanceID: 170, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+179: {name: 'basic bench_hardware_0', instanceID: 179, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+188: {name: 'basic bench_hardware_0', instanceID: 188, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+197: {name: 'basic bench_hardware_0', instanceID: 197, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+206: {name: 'basic bench_hardware_0', instanceID: 206, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+215: {name: 'basic bench_hardware_0', instanceID: 215, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+224: {name: 'basic bench_hardware_0', instanceID: 224, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+233: {name: 'basic bench_basic black_0', instanceID: 233, nodeMask: -1, materialID: '3cfe7698-dda1-4e58-b1a1-cf2494b53a25', type: 'Geometry'}
+245: {name: 'basic bench_basic black_0', instanceID: 245, nodeMask: -1, materialID: '3cfe7698-dda1-4e58-b1a1-cf2494b53a25', type: 'Geometry'}
+254: {name: 'basic bench_basic black_0', instanceID: 254, nodeMask: -1, materialID: '3cfe7698-dda1-4e58-b1a1-cf2494b53a25', type: 'Geometry'}
+263: {name: 'basic bench_basic black_0', instanceID: 263, nodeMask: -1, materialID: '3cfe7698-dda1-4e58-b1a1-cf2494b53a25', type: 'Geometry'}
+272: {name: 'basic bench_basic black_0', instanceID: 272, nodeMask: -1, materialID: '3cfe7698-dda1-4e58-b1a1-cf2494b53a25', type: 'Geometry'}
+281: {name: 'basic bench_frame_0', instanceID: 281, nodeMask: -1, materialID: '36b89391-60a0-4b49-b6ba-77eb98a22772', type: 'Geometry'}
+293: {name: 'basic bench_accents_0', instanceID: 293, nodeMask: -1, materialID: '12c3f21e-cb67-4137-bf95-4166ef9fd448', type: 'Geometry'}
+305: {name: 'basic bench_pad_0', instanceID: 305, nodeMask: -1, materialID: '96d149dd-015c-4d11-8c78-ccd6d5521739', type: 'Geometry'}
+449: {name: 'logo plate', instanceID: 449, nodeMask: -1, materialID: null, children: Array(1), …}
+450: {name: 'logo plate', instanceID: 450, nodeMask: -1, materialID: null, children: Array(7), …}
+451: {name: 'logo plate_accents_0', instanceID: 451, nodeMask: -1, materialID: '12c3f21e-cb67-4137-bf95-4166ef9fd448', type: 'Geometry'}
+460: {name: 'logo plate_hardware_0', instanceID: 460, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+469: {name: 'logo plate_hardware_0', instanceID: 469, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+478: {name: 'logo plate_hardware_0', instanceID: 478, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+487: {name: 'logo plate_hardware_0', instanceID: 487, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+496: {name: 'logo plate_hardware_0', instanceID: 496, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+505: {name: 'logo plate_frame_0', instanceID: 505, nodeMask: -1, materialID: '36b89391-60a0-4b49-b6ba-77eb98a22772', type: 'Geometry'}
+542: {name: 'spotter plate', instanceID: 542, nodeMask: -1, materialID: null, children: Array(1), …}
+543: {name: 'spotter plate', instanceID: 543, nodeMask: -1, materialID: null, children: Array(5), …}
+544: {name: 'spotter plate_basic black_0', instanceID: 544, nodeMask: -1, materialID: '3cfe7698-dda1-4e58-b1a1-cf2494b53a25', type: 'Geometry'}
+553: {name: 'spotter plate_hardware_0', instanceID: 553, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+562: {name: 'spotter plate_hardware_0', instanceID: 562, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+571: {name: 'spotter plate_hardware_0', instanceID: 571, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+580: {name: 'spotter plate_hardware_0', instanceID: 580, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+609: {name: 'premuim pad', instanceID: 609, nodeMask: -1, materialID: null, children: Array(1), …}
+610: {name: 'premuim pad', instanceID: 610, nodeMask: -1, materialID: null, children: Array(18), …}
+611: {name: 'premuim pad_frame_0', instanceID: 611, nodeMask: -1, materialID: '36b89391-60a0-4b49-b6ba-77eb98a22772', type: 'Geometry'}
+620: {name: 'premuim pad_pad_0', instanceID: 620, nodeMask: -1, materialID: '96d149dd-015c-4d11-8c78-ccd6d5521739', type: 'Geometry'}
+629: {name: 'premuim pad_hardware_0', instanceID: 629, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+638: {name: 'premuim pad_hardware_0', instanceID: 638, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+647: {name: 'premuim pad_hardware_0', instanceID: 647, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+656: {name: 'premuim pad_hardware_0', instanceID: 656, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+665: {name: 'premuim pad_hardware_0', instanceID: 665, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+674: {name: 'premuim pad_hardware_0', instanceID: 674, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+683: {name: 'premuim pad_hardware_0', instanceID: 683, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+692: {name: 'premuim pad_hardware_0', instanceID: 692, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+701: {name: 'premuim pad_hardware_0', instanceID: 701, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+710: {name: 'premuim pad_hardware_0', instanceID: 710, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+719: {name: 'premuim pad_hardware_0', instanceID: 719, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+728: {name: 'premuim pad_hardware_0', instanceID: 728, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+737: {name: 'premuim pad_hardware_0', instanceID: 737, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+746: {name: 'premuim pad_hardware_0', instanceID: 746, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+755: {name: 'premuim pad_hardware_0', instanceID: 755, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+764: {name: 'premuim pad_hardware_0', instanceID: 764, nodeMask: -1, materialID: '74cbff43-61eb-4cac-94e1-231d12769804', type: 'Geometry'}
+[[Prototype]]: Object
+app.js:140 
