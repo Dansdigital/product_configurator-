@@ -1,5 +1,6 @@
 This is a 3D product configuator that uses Sketchfab API to render the 3D models. 
 
+Bellow is a list of links to 8 products that use this web app. 
 --Product Links--
 Alpha Half Rack - https://straydogstrength.com/3d-customizer/alpha-half-rack-2/
 Alpha Bench - https://straydogstrength.com/3d-customizer/alpha-bench-2/
